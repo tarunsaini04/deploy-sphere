@@ -1,0 +1,17 @@
+# Dependencies
+**/node_modules
+
+# Production build folders
+**/dist
+**/build
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables - THIS IS THE CRITICAL LINE
+**/.env
+
+# Misc
+.DS_Store
