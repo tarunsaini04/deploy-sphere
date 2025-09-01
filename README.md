@@ -58,8 +58,6 @@ Core Libs
 aws-sdk, simple-git, redis, dotenv, cors
 
 ⚙️ How It Works: The Deployment Lifecycle
-The platform's logic is a carefully orchestrated sequence of events across its microservices.
-
 Submission: The user pastes a GitHub repository URL into the React Frontend and clicks "Deploy".
 
 Upload Service:
