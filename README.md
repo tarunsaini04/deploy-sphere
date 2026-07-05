@@ -102,7 +102,7 @@ Core Libs		->	aws-sdk, simple-git, redis, dotenv, cors
 
    # Clone the repo
    
-   git clone https://github.com/your-username/deploy-sphere.git
+   git clone https://github.com/tarunsaini04/deploy-sphere.git
    
    cd deploy-sphere
 
